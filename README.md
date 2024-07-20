@@ -1,3 +1,4 @@
-# Wave2lip-
+# Wave2lip- Sync
+
 Machine learning based project
 
